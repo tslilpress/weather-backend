@@ -1,5 +1,5 @@
 {
-  "name": "oauth-bridge-template",
+  "name": "weather-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
